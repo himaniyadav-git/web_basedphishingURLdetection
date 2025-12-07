@@ -147,7 +147,7 @@ features.py Screenshot
 
 Web App Running Screenshot
 ![Demo Screenshot](image/ui-1.png)
-![Demo Screenshot](image/ui-1(2).png)
+![Demo Screenshot](image/ui-2.png)
 
 ### 🔮 Future Enhancements
 
