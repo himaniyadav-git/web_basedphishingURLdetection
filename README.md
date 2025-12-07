@@ -23,10 +23,19 @@ Phishing_URL_detection/
 │── templates/
 │   ├── index.html
 │── dataset/
+│── image/
+│   ├── ss1.png
+│   ├── ss2.png
+│   ├── ss3.png
+│   ├── ss4.png
+│   ├── ss5.png
+│   ├── ui-1.png
+│   ├── ui-2.png
 │── dataset_loader.ipynb
 │── Phishing_url_detection_model.ipynb
 │── safe_urls.csv
 │── README.md
+
 
 ### 🚀 Features
 
@@ -75,6 +84,7 @@ Suspicious words (login, verify, bank, secure…)
 
 ### 🖥️ How to Run the Project
 Step 1 — Clone the Project
+
 git clone https://github.com/YOUR_USERNAME/Phishing_URL_detection.git
 cd Phishing_URL_detection
 
@@ -120,24 +130,24 @@ Response:
 
 ### 📷 Demo Screenshot
 
-data loading
+Dataset loading
 
-![Demo Screenshot](image/Screenshot 2025-11-30 093746.png)
-![Demo Screenshot](image/Screenshot 2025-11-30 093903.png)
+![Demo Screenshot](image/ss1.png)
+![Demo Screenshot](image/ss2.png)
 
 Feature Extraction Function
 
-![Demo Screenshot](image/Screenshot 2025-11-30 102949.png)
+![Demo Screenshot](image/ss3.png)
 
 Flask Backend (app.py) Screenshot
-![Demo Screenshot](c:\Users\ASUS\Pictures\Screenshots\Screenshot 2025-11-30 102949.png)
+![Demo Screenshot](image/ss4.png)
 
 features.py Screenshot
-![Demo Screenshot](image/Screenshot 2025-11-30 102514.png)
+![Demo Screenshot](image/ss5.png)
 
 Web App Running Screenshot
-![Demo Screenshot](image/Screenshot 2025-11-30 084924.png)
-![Demo Screenshot](image/Screenshot 2025-11-30 084947.png)
+![Demo Screenshot](image/ui-1.png)
+![Demo Screenshot](image/ui-1(2).png)
 
 ### 🔮 Future Enhancements
 
